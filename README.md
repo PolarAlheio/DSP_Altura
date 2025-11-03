@@ -32,7 +32,7 @@ Trabalho desenvolvido para a disciplina **Processamento Digital de Sinais (DSP)*
 
 ## Instalação de Dependências
 
-Antes de rodar o código, instale a seguinte biblioteca:
+Antes de rodar o código, instale as seguintes bibliotecas:
 
 ```bash
 pip install numpy pyserial opencv-contrib-python

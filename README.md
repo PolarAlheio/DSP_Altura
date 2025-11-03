@@ -29,3 +29,10 @@ Trabalho desenvolvido para a disciplina **Processamento Digital de Sinais (DSP)*
 - **Webcam**
 
 ---
+
+## Instalação de Dependências
+
+Antes de rodar o código, instale a seguinte biblioteca:
+
+```bash
+pip install numpy pyserial opencv-contrib-python
